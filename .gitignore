@@ -1,0 +1,6 @@
+.idea
+backend/.idea
+backend/venv
+backend/.env
+backend/measurement/__pycache__
+backend/smart_home/__pycache__
